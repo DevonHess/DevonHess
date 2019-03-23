@@ -1,0 +1,218 @@
+﻿# For documentation, see http://www.sumatrapdfreader.org/settings3.2.html
+
+MainWindowBackground = #80fff200
+EscToExit = false
+ReuseInstance = false
+UseSysColors = true
+RestoreSession = false
+
+FixedPageUI [
+	TextColor = #000000
+	BackgroundColor = #ffffff
+	SelectionColor = #f5fc0c
+	WindowMargin = 2 4 2 4
+	PageSpacing = 0 0
+]
+EbookUI [
+	FontName = Georgia
+	FontSize = 12.5
+	TextColor = #5f4b32
+	BackgroundColor = #fbf0d9
+	UseFixedPageUI = true
+]
+ComicBookUI [
+	WindowMargin = 0 0 0 0
+	PageSpacing = 0 0
+	CbxMangaMode = false
+]
+ChmUI [
+	UseFixedPageUI = true
+]
+ExternalViewers [
+]
+ShowMenubar = true
+ReloadModifiedDocuments = true
+FullPathInTitle = false
+ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomIncrement = 0
+
+PrinterDefaults [
+	PrintScale = shrink
+]
+ForwardSearch [
+	HighlightOffset = 0
+	HighlightWidth = 15
+	HighlightColor = #6581ff
+	HighlightPermanent = false
+]
+CustomScreenDPI = 0
+
+RememberStatePerDocument = false
+UiLanguage = en
+ShowToolbar = true
+ShowFavorites = false
+AssociateSilently = false
+CheckForUpdates = true
+RememberOpenedFiles = false
+InverseSearchCmdLine = notepad %f
+EnableTeXEnhancements = true
+DefaultDisplayMode = single page
+DefaultZoom = fit page
+WindowState = 2
+WindowPos = -1164 -109 1080 1152
+ShowToc = true
+SidebarDx = 232
+TocDy = 0
+ShowStartPage = true
+UseTabs = false
+
+FileStates [
+	[
+		FilePath = A:\Books\Reference\Internet\The.Interface.Series.139.epub
+		Favorites [
+			[
+				Name = _9MOTHER9HORSE9EYES9: Until we found the village, we...
+				PageNo = 20
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = true
+	]
+	[
+		FilePath = A:\Books\Comics\Death Note\Death Note 01.cbr
+		Favorites [
+			[
+				PageNo = 57
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = true
+	]
+	[
+		FilePath = A:\Books\Gaming\Manuals\Ni No Kuni - Magic Master.pdf
+		Favorites [
+			[
+				PageNo = 1
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = true
+	]
+	[
+		FilePath = A:\Books\Comics\Junji Ito\Museum of Terror\Museum_of_Terror_v03-Flesh_Coloured_Horror[Anonymous].cbz
+		Favorites [
+			[
+				PageNo = 101
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = true
+	]
+	[
+		FilePath = A:\Books\Comics\Junji Ito\Tomie.cbz
+		Favorites [
+			[
+				PageNo = 35
+			]
+			[
+				PageNo = 117
+			]
+			[
+				PageNo = 277
+			]
+			[
+				PageNo = 309
+			]
+			[
+				PageNo = 373
+			]
+			[
+				PageNo = 413
+			]
+			[
+				PageNo = 493
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = true
+	]
+	[
+		FilePath = A:\Books\Comics\Uzumaki\Uzumaki 2.cbz
+		Favorites [
+			[
+				PageNo = 36
+			]
+			[
+				PageNo = 165
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = true
+	]
+	[
+		FilePath = A:\Books\Comics\Yotsuba&!\Yotsuba&! 03.cbr
+		Favorites [
+			[
+				PageNo = 1
+			]
+			[
+				PageNo = 51
+			]
+			[
+				PageNo = 81
+			]
+			[
+				PageNo = 135
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = true
+	]
+	[
+		FilePath = A:\Books\Reference\Moonwalking with Einstein.epub
+		Favorites [
+			[
+				Name = ONE - THE SMARTEST MAN IS HARD TO FIND
+				PageNo = 9
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = true
+	]
+	[
+		FilePath = A:\Server\books\Reference\Computing\Practical Vim.pdf
+		Favorites [
+			[
+				Name = 1. The Vim Way
+				PageNo = 27
+				PageLabel = 1
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = true
+	]
+]
+SessionData [
+]
+TimeOfLastUpdateCheck = 0 0
+OpenCountWeek = 427
+
+# Settings after this line have not been recognized by the current version
